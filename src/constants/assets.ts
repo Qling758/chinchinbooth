@@ -26,6 +26,17 @@ export const FRAMES: Frame[] = [
       },
     ],
   },
+    {
+    id: "aa",
+    name: "aa",
+    layouts: [
+      {
+        count: 6,
+        overlayUrl: "/y2k/4/overlay.png",
+        backgroundUrl: "/y2k/4/bg.png",
+      },
+    ],
+  },
   {
     id: "besties",
     name: "Besties",
