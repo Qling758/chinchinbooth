@@ -27,13 +27,13 @@ export const FRAMES: Frame[] = [
     ],
   },
     {
-    id: "aa",
-    name: "aa",
+    id: "hellokitty",
+    name: "hellokitty",
     layouts: [
       {
-        count: 6,
-        overlayUrl: "/y2k/4/overlay.png",
-        backgroundUrl: "/y2k/4/bg.png",
+        count: 4,
+        overlayUrl: "/hellokitty/4/overlay.png",
+        backgroundUrl: "/hellokitty/4/bg.png",
       },
     ],
   },
